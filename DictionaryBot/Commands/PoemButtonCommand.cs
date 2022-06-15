@@ -37,7 +37,7 @@ namespace TelegramBot.Commands
                                     Как гений чистой красоты."; 
                     break;
                 case "esenin":
-                    text = @"Не каждый умеет петь, 
+                    text = @"Не каждый умеет петь,
                                 Не каждому дано яблоком
                                 Падать к чужим ногам.";
                     break;
