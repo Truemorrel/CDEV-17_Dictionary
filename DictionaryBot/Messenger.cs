@@ -57,7 +57,6 @@ namespace TelegramBot
 
                 await SendText(chat, text);
             }
-
         }
 
 

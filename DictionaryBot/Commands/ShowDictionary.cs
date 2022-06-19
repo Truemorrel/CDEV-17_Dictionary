@@ -27,7 +27,6 @@ namespace TelegramBot.Commands
                 botClient.SendTextMessageAsync(chat.GetId(), string.Concat(record.Value.Russian, " <==> ", record.Value.English));
             };
             return !chat.IsAddingInProcess;
-
         }
 
         public string ReturnText()
